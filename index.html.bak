@@ -15,9 +15,9 @@
     </head>
 	
     <body>
-        
+        <!--put your initial page content here-->
 		<<p style="text-align: center;font-size:30px;"> Lab by Emilie Girard, 2023 </p>
-		<!--put your initial page content here-->
+		
 		<div id="div1">
 		<p> Question 2: The style property returns the values of an element's style attribute. In this case, the styleAll function is applying the same properties to all of the values (the same circles), and we are editing the styles we have added.</p>
 		<p> Question 4: The feature layer is showing all of the attributes/characteristics of each data point, whereas layer serves to provide information on the location of each data point </p>
